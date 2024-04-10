@@ -1,0 +1,75 @@
+{
+  "header.post_now": "现在写",
+  "header.search_placeholder": "搜索...",
+
+  "post.create_post": "Hi {name}, 你想分享什么",
+  "post.text": "帖子",
+  "post.image": "图像",
+  "post.video": "视频",
+  "post.link": "关联",
+
+  "post_form.title": "创建文章",
+  "post_form.field.title": "文章标题",
+  "post_form.field.content": "添加内容 ...",
+  "post_form.field.photo": "添加照片",
+  "post_form.field.photo_drag": "或拖放",
+  "post_form.field.video": "添加视频",
+  "post_form.submit": "郵政",
+  "post_form.cancel": "取消",
+
+  "user.account_setting": "帐号设定",
+  "user.logout": "登出",
+
+  "common.or": "或者",
+  "common.delete.text": "删除",
+  "common.like": "喜欢",
+  "common.comment": "{commentCount, plural,=0 {评论}one {{commentCount, number} 评论}other {{commentCount, number} 评论}}", 
+
+  "login.continue": "继续",
+  "login.title": "登入",
+  "login.login_with": "使用 {name} 登录",
+  "login.password_placeholder": "密码",
+  "login.username_placeholder": "用户名",
+  "login.username.require": "请输入用户名",
+  "login.come_from": "普通用户",
+
+  "ckbox.tabs.images": "图片",
+  "ckbok.tabs.video": "视频",
+  "ckbok.tabs.document": "文件",
+  "ckbok.tabs.files": "Files",
+  "ckbox.search.placeholder": "搜索资产",
+
+  "login.password.require": "请输入您的密码",
+
+  "sidebar.news.title": "News",
+  "sidebar.others_topic.title": "其他主题",
+  "sidebar.list_country.title": "国家",
+  "sidebar.recent.title": "最近的",
+  "sidebar.latest_news.title": "最新消息",
+  "sidebar.promotion.title": "晋升",
+  "sidebar.resource_hub.title": "资源中心",
+  "sidebar.home.title": "家",
+  "sidebar.top.title": "顶部",
+  "sidebar.trend.title": "趋势",
+  "sidebar.resource.title": "资源中心",
+  
+  "list_post.title": "消息",
+  "list_post.tab_all": "全部",
+  "list_post.tab_text": "文本",
+  "list_post.tab_link": "关联",
+  "list_post.tab_image": "图像",
+  "list_post.tab_video": "视频",
+
+  "comment.input_placeholder": "Add comment",
+  "comment.send": "发布评论",
+  "comment.see_more": "查看更多",
+  "comment.reply": "回复",
+
+  "notify.title": "通知",
+  "notify.make_read_all": "标记全部为已读",
+  "notify.empty": "没有通知",
+  "notify.display_position": "通知将显示在这里",
+  "notify.like_message": "对您的帖子表达了情感",
+  "notify.comment_message": "对您的帖子发表了评论",
+  "notify.follow_message": "已关注您"
+}
