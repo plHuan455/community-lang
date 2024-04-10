@@ -1,0 +1,75 @@
+{
+  "header.post_now": "เขียนเดี๋ยวนี้",
+  "header.search_placeholder": "ค้นหา...",
+
+  "post.create_post": "Hi {name}, คุณต้องการแบ่งปันอะไร?",
+  "post.text": "กระทู้",
+  "post.image": "ภาพ",
+  "post.video": "วิดีโอ",
+  "post.link": "ลิงค์",
+
+  "post_form.title": "สร้างบทความ",
+  "post_form.field.title": "ชื่อบทความ",
+  "post_form.field.content": "เพิ่มเนื้อหา ...",
+  "post_form.field.photo": "เพิ่มรูปถ่าย",
+  "post_form.field.photo_drag": "หรือลากและวาง",
+  "post_form.field.video": "เพิ่มวิดีโอ",
+  "post_form.submit": "โพสต์",
+  "post_form.cancel": "ยกเลิก",
+
+  "user.account_setting": "การตั้งค่าบัญชี",
+  "user.logout": "ออกจากระบบ",
+
+  "common.or": "หรือ",
+  "common.delete.text": "ลบ",
+  "common.like": "ชอบ",
+  "common.comment": "{commentCount, plural,=0 {ความคิดเห็น}one {{commentCount, number} ความคิดเห็น}other {{commentCount, number} ความคิดเห็น}}",
+
+  "login.continue": "ดำเนินการต่อ",
+  "login.title": "เข้าสู่ระบบ",
+  "login.login_with": "เข้าสู่ระบบด้วย {name}",
+  "login.password_placeholder": "รหัสผ่าน",
+  "login.username_placeholder": "ชื่อผู้ใช้",
+  "login.username.require": "กรุณากรอกชื่อผู้ใช้",
+  "login.come_from": "ผู้ใช้ทั่วไป",
+
+  "ckbox.tabs.images": "รูปภาพ",
+  "ckbok.tabs.video": "วิดีโอ",
+  "ckbok.tabs.document": "เอกสาร",
+  "ckbok.tabs.files": "ไฟล์",
+  "ckbox.search.placeholder": "ค้นหาสินทรัพย์",
+
+  "login.password.require": "กรุณาใส่รหัสผ่านของคุณ",
+  
+  "sidebar.others_topic.news": "News",
+  "sidebar.others_topic.title": "หัวข้ออื่น ๆ",
+  "sidebar.list_country.title": "ประเทศ",
+  "sidebar.recent.title": "ล่าสุด",
+  "sidebar.latest_news.title": "ข่าวล่าสุด",
+  "sidebar.promotion.title": "การส่งเสริม",
+  "sidebar.resource_hub.title": "ศูนย์กลางทรัพยากร",
+  "sidebar.home.title": "บ้าน",
+  "sidebar.top.title": "สูงสุด",
+  "sidebar.trend.title": "นวโน้ม",
+  "sidebar.resource.title": "ศูนย์กลางทรัพยากร",
+  
+  "list_post.title": "ข่าว",
+  "list_post.tab_all": "ทั้งหมด",
+  "list_post.tab_text": "ข้อความ",
+  "list_post.tab_link": "ลิงค์",
+  "list_post.tab_image": "ภาพ",
+  "list_post.tab_video": "วีดีโอ",
+
+  "comment.input_placeholder": "Add comment",
+  "comment.send": "แสดงความคิดเห็น",
+  "comment.see_more": "ดูเพิ่มเติม",
+  "comment.reply": "ตอบ",
+  
+  "notify.title": "การแจ้งเตือน",
+  "notify.make_read_all": "ทำเครื่องหมายทั้งหมดว่าอ่านแล้ว",
+  "notify.empty": "ไม่มีการแจ้งเตือน",
+  "notify.display_position": "การแจ้งเตือนจะถูกแสดงที่นี่",
+  "notify.like_message": "แสดงความรู้สึกเกี่ยวกับโพสต์ของคุณ",
+  "notify.comment_message": "แสดงความคิดเห็นเกี่ยวกับโพสต์ของคุณ",
+  "notify.follow_message": "ติดตามคุณ"
+}
