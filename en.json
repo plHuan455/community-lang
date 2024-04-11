@@ -14,6 +14,7 @@
   "post_form.field.photo": "Add image",
   "post_form.field.photo_drag": "or drag and drop",
   "post_form.field.video": "Add video",
+  "post_form.file.topic_placeholder": "",
   "post_form.submit": "Post",
   "post_form.cancel": "Cancel",
 
