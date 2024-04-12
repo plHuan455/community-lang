@@ -14,7 +14,7 @@
   "post_form.field.photo": "เพิ่มรูปถ่าย",
   "post_form.field.photo_drag": "หรือลากและวาง",
   "post_form.field.video": "เพิ่มวิดีโอ",
-  "post_form.file.topic_placeholder": "",
+  "post_form.file.topic_placeholder": "เลือกหัวข้อ",
   "post_form.submit": "โพสต์",
   "post_form.cancel": "ยกเลิก",
 
