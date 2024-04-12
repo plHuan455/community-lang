@@ -1,13 +1,11 @@
 {
   "header.post_now": "New Post",
   "header.search_placeholder": "Search...",
-
   "post.create_post": "Hi {name}, What do you want to share?",
   "post.text": "Posts",
   "post.image": "Image",
   "post.video": "Video",
   "post.link": "Link",
-
   "post_form.title": "Create posts",
   "post_form.field.title": "Title of posts",
   "post_form.field.content": "Add content ...",
@@ -17,15 +15,12 @@
   "post_form.file.topic_placeholder": "Choose topic",
   "post_form.submit": "Post",
   "post_form.cancel": "Cancel",
-
   "user.account_setting": "Account settings",
   "user.logout": "Log out",
-
   "common.or": "Or",
   "common.delete.text": "Delete",
   "common.like": "Like",
-  "common.comment": "{commentCount, plural,=0 {Comment}one {{commentCount, number} Comment}other {{commentCount, number} comment}}",  
-
+  "common.comment": "{commentCount, plural,=0 {Comment}one {{commentCount, number} Comment}other {{commentCount, number} comment}}",
   "login.continue": "Continue",
   "login.title": "Sign In",
   "login.login_with": "Sign in with {name}",
@@ -33,15 +28,12 @@
   "login.username_placeholder": "Username",
   "login.username.require": "Please enter username",
   "login.come_from": "Normal users",
-
   "ckbox.tabs.images": "Images",
   "ckbok.tabs.video": "Videos",
   "ckbok.tabs.document": "Documents",
   "ckbok.tabs.files": "Files",
   "ckbox.search.placeholder": "Search assets",
-
   "login.password.require": "Please enter your password",
-
   "sidebar.news.title": "News",
   "sidebar.others_topic.title": "Other topic",
   "sidebar.list_country.title": "Countries",
@@ -53,24 +45,22 @@
   "sidebar.top.title": "Top",
   "sidebar.trend.title": "Trend",
   "sidebar.resource.title": "Resource hub",
-  
   "list_post.title": "News",
   "list_post.tab_all": "All",
   "list_post.tab_text": "Text",
   "list_post.tab_link": "Link",
   "list_post.tab_image": "Image",
   "list_post.tab_video": "Video",
-
   "comment.input_placeholder": "Add comment",
   "comment.send": "Bình luận",
   "comment.see_more": "See more",
   "comment.reply": "Reply",
-
   "notify.title": "Notification",
   "notify.make_read_all": "Mark all as read",
   "notify.empty": "No notifications",
   "notify.display_position": "Notifications will be displayed here",
   "notify.like_message": "Expressed feelings about your post",
   "notify.comment_message": "Commented on your post",
-  "notify.follow_message": "Followed you"
+  "notify.follow_message": "Followed you",
+  "common.edit.text": ""
 }

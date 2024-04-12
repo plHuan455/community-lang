@@ -1,13 +1,11 @@
 {
   "header.post_now": "现在写",
   "header.search_placeholder": "搜索...",
-
   "post.create_post": "Hi {name}, 你想分享什么",
   "post.text": "帖子",
   "post.image": "图像",
   "post.video": "视频",
   "post.link": "关联",
-
   "post_form.title": "创建文章",
   "post_form.field.title": "文章标题",
   "post_form.field.content": "添加内容 ...",
@@ -17,15 +15,12 @@
   "post_form.file.topic_placeholder": "選擇主題",
   "post_form.submit": "邮政",
   "post_form.cancel": "取消",
-
   "user.account_setting": "帐号设定",
   "user.logout": "登出",
-
   "common.or": "或者",
   "common.delete.text": "刪除",
   "common.like": "喜歡",
-  "common.comment": "{commentCount, plural,=0 {評論}one {{commentCount, number} 評論}other {{commentCount, number} 評論}}", 
-
+  "common.comment": "{commentCount, plural,=0 {評論}one {{commentCount, number} 評論}other {{commentCount, number} 評論}}",
   "login.continue": "繼續",
   "login.title": "登入",
   "login.login_with": "使用 {name} 登錄",
@@ -33,15 +28,12 @@
   "login.username_placeholder": "使用者名稱",
   "login.username.require": "請輸入使用者名稱",
   "login.come_from": "普通用戶",
-
   "ckbox.tabs.images": "圖片",
   "ckbok.tabs.video": "視頻",
   "ckbok.tabs.document": "文件",
   "ckbok.tabs.files": "Files",
   "ckbox.search.placeholder": "搜尋資產",
-
   "login.password.require": "請輸入您的密碼",
-
   "sidebar.news.title": "News",
   "sidebar.others_topic.title": "其他主題",
   "sidebar.list_country.title": "國家",
@@ -53,24 +45,22 @@
   "sidebar.top.title": "頂部",
   "sidebar.trend.title": "趨勢",
   "sidebar.resource.title": "資源中心",
-    
   "list_post.title": "訊息",
   "list_post.tab_all": "全部",
   "list_post.tab_text": "文字",
   "list_post.tab_link": "關聯",
   "list_post.tab_image": "影像",
   "list_post.tab_video": "影片",
-
   "comment.input_placeholder": "Add comment",
   "comment.send": "發布評論",
   "comment.see_more": "看更多",
   "comment.reply": "回覆",
-
   "notify.title": "通知",
   "notify.make_read_all": "標記全部為已讀",
   "notify.empty": "沒有通知",
   "notify.display_position": "通知將顯示在這裡",
   "notify.like_message": "對您的帖子表達了情感",
-  "notify.comment_message":"對您的帖子發表了評論",
-  "notify.follow_message": "已關注您"
+  "notify.comment_message": "對您的帖子發表了評論",
+  "notify.follow_message": "已關注您",
+  "common.edit.text": ""
 }

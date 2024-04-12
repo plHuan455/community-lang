@@ -1,13 +1,11 @@
 {
   "header.post_now": "오늘 기사를 써보세요",
   "header.search_placeholder": "찾다...",
-
   "post.create_post": "Hi {name}, 무엇을 공유하고 싶나요?",
   "post.text": "게시물",
   "post.image": "영상",
   "post.video": "동영상",
   "post.link": "링크",
-
   "post_form.title": "기사 작성",
   "post_form.field.title": "기사 제목",
   "post_form.field.content": "콘텐츠 추가 ...",
@@ -17,15 +15,12 @@
   "post_form.file.topic_placeholder": "주제를 선택하세요",
   "post_form.submit": "우편",
   "post_form.cancel": "취소",
-
   "user.account_setting": "계정 설정",
   "user.logout": "로그 아웃",
-
   "common.or": "또는",
   "common.delete.text": "삭제",
   "common.like": "좋다",
-  "common.comment": "{commentCount, plural,=0 {논평}one {{commentCount, number} 논평}other {{commentCount, number} 논평}}", 
-
+  "common.comment": "{commentCount, plural,=0 {논평}one {{commentCount, number} 논평}other {{commentCount, number} 논평}}",
   "login.continue": "계속하다",
   "login.title": "로그인",
   "login.login_with": "{name}로 로그인",
@@ -34,14 +29,11 @@
   "login.username.require": "사용자 이름을 입력하세요",
   "login.come_from": "일반 사용자",
   "login.password.require": "비밀번호를 입력해주세요",
-
   "ckbox.tabs.images": "이미지",
   "ckbok.tabs.video": "비디오",
   "ckbok.tabs.document": "문서",
   "ckbok.tabs.files": "파일",
   "ckbox.search.placeholder": "자산 검색",
-
-
   "sidebar.news.title": "News",
   "sidebar.others_topic.title": "다른 주제",
   "sidebar.list_country.title": "국가",
@@ -59,17 +51,16 @@
   "list_post.tab_text": "텍스트",
   "list_post.tab_image": "영상",
   "list_post.tab_video": "동영상",
-
   "comment.input_placeholder": "Add comment",
   "comment.send": "댓글 남기기",
   "comment.see_more": "더보기",
   "comment.reply": "회신하다",
-
   "notify.title": "통지",
   "notify.make_read_all": "모두 읽음으로 표시",
   "notify.empty": "알림 없음",
   "notify.display_position": "알림이 여기에 표시됩니다",
   "notify.like_message": "귀하의 게시물에 대한 감정 표현",
   "notify.comment_message": "귀하의 게시물에 댓글을 남겼습니다",
-  "notify.follow_message": "귀하를 팔로우했습니다"
- }
+  "notify.follow_message": "귀하를 팔로우했습니다",
+  "common.edit.text": ""
+}

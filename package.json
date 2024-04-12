@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "plop": "plop"
+  },
+  "dependencies": {
+    "plop": "^4.0.1"
+  }
+}

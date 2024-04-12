@@ -1,13 +1,11 @@
 {
   "header.post_now": "Tạo bài viết ngay",
   "header.search_placeholder": "Tìm kiếm…",
- 
   "post.create_post": "Hi {name},Bạn muốn chia sẻ điều gì?",
   "post.text": "Bài viết",
   "post.image": "Hình ảnh",
   "post.video": "Video",
   "post.link": "Link",
- 
   "post_form.title": "Tạo bài viết",
   "post_form.field.title": "Tiêu đề",
   "post_form.field.content": "Thêm nội dung...",
@@ -17,15 +15,12 @@
   "post_form.file.topic_placeholder": "Chọn chủ đề",
   "post_form.submit": "Đăng",
   "post_form.cancel": "Hủy",
- 
   "user.account_setting": "Cài đặt tài khoản",
   "user.logout": "Đăng xuất",
- 
   "common.or": "Hoặc",
   "common.delete.text": "Xoá",
   "common.like": "Thích",
   "common.comment": "{commentCount, plural,=0 {Bình luận}one {{commentCount, number} Bình luận}other {{commentCount, number} bình luận}}",
- 
   "login.continue": "Tiếp tục",
   "login.title": "Đăng nhập",
   "login.login_with": "Đăng nhập với {name}",
@@ -33,15 +28,12 @@
   "login.username_placeholder": "Tên đăng nhập",
   "login.username.require": "Vui lòng nhập tên đăng nhập",
   "login.come_from": "Normal users",
- 
   "ckbox.tabs.images": "Hình ảnh",
   "ckbok.tabs.video": "Video",
   "ckbok.tabs.document": "Tài liệu",
   "ckbok.tabs.files": "Files",
   "ckbox.search.placeholder": "Tìm kiếm nội dung",
- 
   "login.password.require": "Vui lòng nhập mật khẩu của bạn",
- 
   "sidebar.news.title": "Tin tức",
   "sidebar.others_topic.title": "Chủ đề khác",
   "sidebar.list_country.title": "Quốc gia",
@@ -49,28 +41,26 @@
   "sidebar.latest_news.title": "Tin mới nhất",
   "sidebar.promotion.title": "Promotion",
   "sidebar.resource_hub.title": "Resource hub",
-  "sidebar.home.title": "Trang chủ" ,
+  "sidebar.home.title": "Trang chủ",
   "sidebar.top.title": "Top",
-  "sidebar.trend.title": "Xu hướng" ,
+  "sidebar.trend.title": "Xu hướng",
   "sidebar.resource.title": "Resource hub",
-   
   "list_post.title": "Tin mới",
   "list_post.tab_all": "Tất cả",
-  "list_post.tab_text": "Bài viết" ,
+  "list_post.tab_text": "Bài viết",
   "list_post.tab_link": "Link",
   "list_post.tab_image": "Hình ảnh",
   "list_post.tab_video": "Video",
- 
   "comment.input_placeholder": "Thêm bình luận",
   "comment.send": "Bình luận",
   "comment.see_more": "Xem thêm bình luận",
   "comment.reply": "Phản hồi",
-
   "notify.title": "Thông báo",
   "notify.make_read_all": "Đánh dấu tất cả đã đọc",
   "notify.empty": "Chưa có thông báo",
   "notify.display_position": "Thông báo sẽ được hiển thị ở đây",
   "notify.like_message": "đã bày tỏ cảm xúc về bài viết của bạn",
   "notify.comment_message": "đã bình luận về bài viết của bạn",
-  "notify.follow_message": "đã theo dõi bạn"
- }
+  "notify.follow_message": "đã theo dõi bạn",
+  "common.edit.text": ""
+}
