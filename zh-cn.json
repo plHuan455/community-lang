@@ -62,5 +62,8 @@
   "notify.like_message": "对您的帖子表达了情感",
   "notify.comment_message": "对您的帖子发表了评论",
   "notify.follow_message": "已关注您",
-  "common.edit.text": ""
+  "common.edit.text": "",
+  "post.confirm_delete.title": "",
+  "post.confirm_delete.description": "",
+  "post.confirm_delete.button": ""
 }

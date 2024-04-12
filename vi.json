@@ -62,5 +62,8 @@
   "notify.like_message": "đã bày tỏ cảm xúc về bài viết của bạn",
   "notify.comment_message": "đã bình luận về bài viết của bạn",
   "notify.follow_message": "đã theo dõi bạn",
-  "common.edit.text": ""
+  "common.edit.text": "",
+  "post.confirm_delete.title": "",
+  "post.confirm_delete.description": "",
+  "post.confirm_delete.button": ""
 }

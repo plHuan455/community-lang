@@ -62,5 +62,8 @@
   "notify.like_message": "แสดงความรู้สึกเกี่ยวกับโพสต์ของคุณ",
   "notify.comment_message": "แสดงความคิดเห็นเกี่ยวกับโพสต์ของคุณ",
   "notify.follow_message": "ติดตามคุณ",
-  "common.edit.text": ""
+  "common.edit.text": "",
+  "post.confirm_delete.title": "",
+  "post.confirm_delete.description": "",
+  "post.confirm_delete.button": ""
 }
