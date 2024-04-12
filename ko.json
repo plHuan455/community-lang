@@ -62,5 +62,8 @@
   "notify.like_message": "귀하의 게시물에 대한 감정 표현",
   "notify.comment_message": "귀하의 게시물에 댓글을 남겼습니다",
   "notify.follow_message": "귀하를 팔로우했습니다",
-  "common.edit.text": ""
+  "common.edit.text": "",
+  "post.confirm_delete.title": "",
+  "post.confirm_delete.description": "",
+  "post.confirm_delete.button": ""
 }
