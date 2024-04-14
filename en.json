@@ -46,7 +46,7 @@
   "post.text": "Posts",
   "post.video": "Video",
   "post_form.cancel": "Cancel",
-  "post_form.create_title": "New post",
+  "post_form.create_title": "",
   "post_form.error.images_required": "",
   "post_form.error.link_format": "",
   "post_form.error.link_required": "",
