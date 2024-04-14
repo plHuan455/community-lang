@@ -46,7 +46,7 @@
   "post.text": "Bài viết",
   "post.video": "Video",
   "post_form.cancel": "Hủy",
-  "post_form.create_title": "",
+  "post_form.create_title": "Tạo bài viết",
   "post_form.error.images_required": "Bạn chưa chọn hình ảnh",
   "post_form.error.link_format": "Vui lòng kiểm tra lại địa chỉ đường dẫn",
   "post_form.error.link_required": "Vui lòng nhập đường dẫn",
