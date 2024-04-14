@@ -8,7 +8,7 @@
   "comment.reply": "Phản hồi",
   "comment.see_more": "Xem thêm bình luận",
   "comment.send": "Bình luận",
-  "common.cancel": "huỷ",
+  "common.cancel": "",
   "common.comment": "{commentCount, plural,=0 {Bình luận}one {{commentCount, number} Bình luận}other {{commentCount, number} bình luận}}",
   "common.delete.text": "Xoá",
   "common.edit.text": "",
