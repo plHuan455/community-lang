@@ -16,7 +16,7 @@ const updateFileValue = (path, { key, value }) => {
   const fileData = JSON.parse(fs.readFileSync(path, "utf-8") || "{}")
   fileData[key] = value
   Object.fromEntries(Object.entries(fileData).sort())
-  fs.writeFileSync(path, JSON.stringify(fileData, null, 2))
+  fs.writeFileSync(path, JSON.stringify(Object.fromEntries(Object.entries(fileData).sort()), null, 2))
 }
 
 
