@@ -48,7 +48,7 @@
   "post.video": "Video",
   "post_form.cancel": "Cancel",
   "post_form.create_title": "Create post",
-  "post_form.error.images_required": "Please enter the title of the post",
+  "post_form.error.images_required": "Please add photo to the post",
   "post_form.error.link_format": "The URL is incorrect",
   "post_form.error.link_required": "Please enter the URL",
   "post_form.error.title_required": "Please enter the title of the post",
