@@ -40,7 +40,7 @@
   "notify.title": "通知", 
   "post.confirm_delete.button": "删除",
   "post.confirm_delete.description": "您确定要删除此帖子吗？",
-  "post.confirm_delete.title": "删除帖子"
+  "post.confirm_delete.title": "删除帖子",
   "post.create_post": "Hi {name}, 你想分享什么",
   "post.image": "图像",
   "post.link": "关联",
@@ -52,7 +52,7 @@
   "post_form.error.link_format": "URL格式不正确",
   "post_form.error.link_required": "请填写URL",
   "post_form.error.title_required": "请填写帖子标题",
-  "post_form.error.video_required": "请在帖子中添加视频"
+  "post_form.error.video_required": "请在帖子中添加视频",
   "post_form.field.content": "添加内容 ...",
   "post_form.field.photo": "添加照片",
   "post_form.field.photo_drag": "或拖放",
