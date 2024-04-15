@@ -19,6 +19,7 @@
   "common.user": "",
   "common.verified": "",
   "follow.widget_title": "Follower",
+  "forgot_password.email_placeholder": "",
   "forgot_password.title": "",
   "header.post_now": "Create Post",
   "header.search_placeholder": "Search...",
