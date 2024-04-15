@@ -2,12 +2,12 @@
 // eslint-disable-next-line @typescript-eslint/no-var-requires
 const fs = require("fs")
 const FILE_PATHS = {
-  en: "en.json",
-  ko: "ko.json",
-  vi: "vi.json",
-  th: "th.json",
-  zhCn: "zh-cn.json",
-  zhTw: "zh-tw.json",
+  en: "langs/en.json",
+  ko: "langs/ko.json",
+  vi: "langs/vi.json",
+  th: "langs/th.json",
+  zhCn: "langs/zh-cn.json",
+  zhTw: "langs/zh-tw.json",
 }
 
 const SVG_FOLDER = "components/svg"
