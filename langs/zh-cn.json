@@ -14,6 +14,7 @@
   "common.delete.text": "删除",
   "common.edit.text": "编辑",
   "common.error.email_format": "您的账号已被锁定。",
+  "common.error.general": "出现错误。请稍后再试。",
   "common.like": "喜欢",
   "common.news": "新闻",
   "common.or": "或者",

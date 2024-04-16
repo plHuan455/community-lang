@@ -14,6 +14,7 @@
   "common.delete.text": "ลบ",
   "common.edit.text": "แก้ไข",
   "common.error.email_format": "กรุณาใส่อีเมลที่ถูกต้อง",
+  "common.error.general": "ข้อผิดพลาด โปรดลองอีกครั้งในภายหลัง",
   "common.like": "ชอบ",
   "common.news": "ข่าว",
   "common.or": "หรือ",
