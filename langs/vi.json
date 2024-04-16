@@ -22,6 +22,7 @@
   "common.user": "Người dùng",
   "common.verified": "Đã xác minh",
   "follow.widget_title": "Đang theo dõi",
+  "forgot_password.email_not_exist": "Địa chỉ email không tồn tại",
   "forgot_password.email_placeholder": "",
   "forgot_password.title": "",
   "header.post_now": "Tạo bài viết ngay",

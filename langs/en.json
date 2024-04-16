@@ -22,6 +22,7 @@
   "common.user": "User",
   "common.verified": "",
   "follow.widget_title": "Follower",
+  "forgot_password.email_not_exist": "Email address does not exist.",
   "forgot_password.email_placeholder": "",
   "forgot_password.title": "",
   "header.post_now": "Create Post",

@@ -22,6 +22,7 @@
   "common.user": "ผู้ใช้",
   "common.verified": "",
   "follow.widget_title": "ผู้ติดตาม",
+  "forgot_password.email_not_exist": "ไม่พบที่อยู่อีเมล",
   "forgot_password.email_placeholder": "",
   "forgot_password.title": "",
   "header.post_now": "เขียนเดี๋ยวนี้",

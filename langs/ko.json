@@ -22,6 +22,7 @@
   "common.user": "사용자",
   "common.verified": "",
   "follow.widget_title": "팔로워",
+  "forgot_password.email_not_exist": "이메일 주소가 존재하지 않습니다.",
   "forgot_password.email_placeholder": "",
   "forgot_password.title": "",
   "header.post_now": "오늘 기사를 써보세요",
