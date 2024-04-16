@@ -13,6 +13,7 @@
   "common.comment": "{commentCount, plural,=0 {논평}one {{commentCount, number} 논평}other {{commentCount, number} 논평}}",
   "common.delete.text": "삭제",
   "common.edit.text": "편집",
+  "common.error.email_format": "귀하의 계정이 잠겼습니다.",
   "common.like": "좋다",
   "common.news": "뉴스",
   "common.or": "또는",

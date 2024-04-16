@@ -13,6 +13,7 @@
   "common.comment": "{commentCount, plural,=0 {評論}one {{commentCount, number} 評論}other {{commentCount, number} 評論}}",
   "common.delete.text": "刪除",
   "common.edit.text": "编辑",
+  "common.error.email_format": "您的帳號已被鎖定。",
   "common.like": "喜歡",
   "common.news": "新聞",
   "common.or": "或者",

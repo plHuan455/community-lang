@@ -13,6 +13,7 @@
   "common.comment": "{commentCount, plural,=0 {ความคิดเห็น}one {{commentCount, number} ความคิดเห็น}other {{commentCount, number} ความคิดเห็น}}",
   "common.delete.text": "ลบ",
   "common.edit.text": "แก้ไข",
+  "common.error.email_format": "กรุณาใส่อีเมลที่ถูกต้อง",
   "common.like": "ชอบ",
   "common.news": "ข่าว",
   "common.or": "หรือ",

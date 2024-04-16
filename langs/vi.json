@@ -13,6 +13,7 @@
   "common.comment": "{commentCount, plural,=0 {Bình luận}one {{commentCount, number} Bình luận}other {{commentCount, number} bình luận}}",
   "common.delete.text": "Xoá",
   "common.edit.text": "Chỉnh sửa",
+  "common.error.email_format": "Vui lòng nhập đúng email",
   "common.like": "Thích",
   "common.news": "Tin tức",
   "common.or": "Hoặc",
