@@ -15,6 +15,7 @@
   "common.all": "Tất cả",
   "common.cancel": "Huỷ",
   "common.comment": "{commentCount, plural,=0 {Bình luận}one {{commentCount, number} Bình luận}other {{commentCount, number} bình luận}}",
+  "common.copy_clipboard": "Đã sao chép",
   "common.delete.text": "Xoá",
   "common.edit.text": "Chỉnh sửa",
   "common.error.email_format": "Vui lòng nhập đúng email",

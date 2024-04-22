@@ -15,6 +15,7 @@
   "common.all": "ทั้งหมด",
   "common.cancel": "ยกเลิก",
   "common.comment": "{commentCount, plural,=0 {ความคิดเห็น}one {{commentCount, number} ความคิดเห็น}other {{commentCount, number} ความคิดเห็น}}",
+  "common.copy_clipboard": "คัดลอกแล้ว",
   "common.delete.text": "ลบ",
   "common.edit.text": "แก้ไข",
   "common.error.email_format": "กรุณาใส่อีเมลที่ถูกต้อง",
