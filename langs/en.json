@@ -30,7 +30,7 @@
   "common.share": "Share",
   "common.user": "User",
   "common.verified": "",
-  "follow.widget_title": "Follower",
+  "follow.widget_title": "Following",
   "forgot_password.email_not_exist": "Email address does not exist.",
   "forgot_password.email_placeholder": "Recovery Email",
   "forgot_password.title": "Forgot Password",
