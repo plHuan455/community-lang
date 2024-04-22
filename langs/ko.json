@@ -30,7 +30,7 @@
   "common.share": "공유",
   "common.user": "사용자",
   "common.verified": "",
-  "follow.widget_title": "팔로워",
+  "follow.widget_title": "팔로우 중",
   "forgot_password.email_not_exist": "이메일 주소가 존재하지 않습니다.",
   "forgot_password.email_placeholder": "복구 이메일",
   "forgot_password.title": "비밀번호를 잊으셨나요?",
