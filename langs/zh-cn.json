@@ -51,6 +51,7 @@
   "login.error.incorrect": "用户名或密码不正确。",
   "login.error.lock": "您的账号已被锁定。",
   "login.error.password_length": "密码必须至少为6个字符",
+  "login.error.username_format": "",
   "login.login_with": "使用 {name} 登录",
   "login.password.require": "请输入您的密码",
   "login.password_placeholder": "密码",

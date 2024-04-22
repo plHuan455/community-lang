@@ -51,6 +51,7 @@
   "login.error.incorrect": "Incorrect username or password",
   "login.error.lock": "Your account has been locked.",
   "login.error.password_length": "Password must be at least 6 characters",
+  "login.error.username_format": "",
   "login.login_with": "Sign in with {name}",
   "login.password.require": "Please enter your password",
   "login.password_placeholder": "Password",

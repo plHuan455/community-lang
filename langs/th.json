@@ -51,6 +51,7 @@
   "login.error.incorrect": "ชื่อผู้ใช้หรือรหัสผ่านไม่ถูกต้อง",
   "login.error.lock": "บัญชีของคุณถูกล็อก",
   "login.error.password_length": "รหัสผ่านต้องมีอย่างน้อย 6 ตัวอักษร",
+  "login.error.username_format": "",
   "login.login_with": "เข้าสู่ระบบด้วย {name}",
   "login.password.require": "กรุณาใส่รหัสผ่านของคุณ",
   "login.password_placeholder": "รหัสผ่าน",

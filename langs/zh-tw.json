@@ -51,6 +51,7 @@
   "login.error.incorrect": "用戶名或密碼不正確。",
   "login.error.lock": "您的帳號已被鎖定。",
   "login.error.password_length": "密碼必須至少有6個字符",
+  "login.error.username_format": "",
   "login.login_with": "使用 {name} 登錄",
   "login.password.require": "請輸入您的密碼",
   "login.password_placeholder": "密碼",
