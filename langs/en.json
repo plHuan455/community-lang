@@ -58,7 +58,7 @@
   "login.password_placeholder": "Password",
   "login.success_message": "Login successful.",
   "login.title": "Sign In",
-  "login.title.account": "New password",
+  "login.title.account": "Create your account",
   "login.username.require": "Please enter username",
   "login.username_placeholder": "Username",
   "notify.comment_message": "Commented on your post",
