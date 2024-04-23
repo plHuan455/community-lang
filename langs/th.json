@@ -58,7 +58,7 @@
   "login.password_placeholder": "รหัสผ่าน",
   "login.success_message": "เข้าสู่ระบบสำเร็จ",
   "login.title": "เข้าสู่ระบบ",
-  "login.title.account": "รหัสผ่านใหม่",
+  "login.title.account": "สร้างบัญชีของคุณ",
   "login.username.require": "กรุณากรอกชื่อผู้ใช้",
   "login.username_placeholder": "ชื่อผู้ใช้",
   "notify.comment_message": "แสดงความคิดเห็นเกี่ยวกับโพสต์ของคุณ",
