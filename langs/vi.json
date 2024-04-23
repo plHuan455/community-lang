@@ -15,6 +15,7 @@
   "comment.select_comment": "",
   "comment.send": "Bình luận",
   "common.all": "Tất cả",
+  "common.all_data_matching_loaded_by": "Tất cả dữ liệu phù hợp với {name} đã được tải",
   "common.cancel": "Huỷ",
   "common.comment": "{commentCount, plural,=0 {Bình luận}one {{commentCount, number} Bình luận}other {{commentCount, number} bình luận}}",
   "common.copy_clipboard": "Đã sao chép",

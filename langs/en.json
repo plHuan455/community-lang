@@ -14,6 +14,7 @@
   "comment.see_more": "See more",
   "comment.send": "Comment",
   "common.all": "All",
+  "common.all_data_matching_loaded_by": "All data matching by {name} loaded",
   "common.cancel": "Cancel",
   "common.comment": "{commentCount, plural,=0 {Comment}one {{commentCount, number} Comment}other {{commentCount, number} comment}}",
   "common.copy_clipboard": "Copied",
