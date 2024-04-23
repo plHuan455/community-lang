@@ -58,7 +58,7 @@
   "login.password_placeholder": "密碼",
   "login.success_message": "登入成功。",
   "login.title": "登入",
-  "login.title.account": "新密碼",
+  "login.title.account": "建立您的帐户",
   "login.username.require": "請輸入使用者名稱",
   "login.username_placeholder": "使用者名稱",
   "notify.comment_message": "對您的帖子發表了評論",
