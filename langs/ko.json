@@ -112,6 +112,7 @@
   "profile.birthday": "생일",
   "profile.full_name": "성명",
   "profile.gender": "성별",
+  "profile.gender.placeholder_choose": "",
   "profile.message.success.update_social": "{socialName}를 성공적으로 업데이트했습니다",
   "profile.phone_number_placeholder": "",
   "profile.social": "소셜",

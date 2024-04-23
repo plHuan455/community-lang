@@ -112,6 +112,7 @@
   "profile.birthday": "วันเกิด",
   "profile.full_name": "ชื่อเต็ม",
   "profile.gender": "เพศ",
+  "profile.gender.placeholder_choose": "",
   "profile.message.success.update_social": "อัปเดต {socialName} สำเร็จ",
   "profile.phone_number_placeholder": "",
   "profile.social": "โซเชียล",

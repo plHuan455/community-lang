@@ -112,6 +112,7 @@
   "profile.birthday": "生日",
   "profile.full_name": "全名",
   "profile.gender": "性別",
+  "profile.gender.placeholder_choose": "",
   "profile.message.success.update_social": "成功更新 {socialName}",
   "profile.phone_number_placeholder": "",
   "profile.social": "社交",
