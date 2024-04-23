@@ -62,6 +62,7 @@
   "login.error.lock": "Your account has been locked.",
   "login.error.password_length": "Password must be at least 6 characters",
   "login.error.required_display_name": "",
+  "login.error.username_exist": "",
   "login.error.username_format": "",
   "login.login_with": "Sign in with {name}",
   "login.password.require": "Please enter your password",

@@ -63,6 +63,7 @@
   "login.error.lock": "Tài khoản của bạn đã bị khoá",
   "login.error.password_length": "Mật khẩu phải có ít nhất 6 ký tự",
   "login.error.required_display_name": "",
+  "login.error.username_exist": "",
   "login.error.username_format": "Tài khoản phải có từ 6 đến 12 ký tự là số hoặc chữ và phải bắt đầu bằng chữ",
   "login.login_with": "Đăng nhập với {name}",
   "login.password.require": "Vui lòng nhập mật khẩu của bạn",
