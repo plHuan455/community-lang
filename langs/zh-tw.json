@@ -20,6 +20,7 @@
   "common.comment": "{commentCount, plural,=0 {評論}one {{commentCount, number} 評論}other {{commentCount, number} 評論}}",
   "common.copy_clipboard": "已複製",
   "common.delete.text": "刪除",
+  "common.detail": "",
   "common.edit.text": "编辑",
   "common.error.email_format": "您的帳號已被鎖定。",
   "common.error.general": "發生錯誤。請稍後再試。",
