@@ -93,6 +93,7 @@
   "post.image": "图像",
   "post.link": "关联",
   "post.text": "帖子",
+  "post.title.post_of": "",
   "post.video": "视频",
   "post_form.cancel": "取消",
   "post_form.create_title": "创建帖子",

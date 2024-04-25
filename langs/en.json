@@ -93,6 +93,7 @@
   "post.image": "Image",
   "post.link": "Link",
   "post.text": "Post",
+  "post.title.post_of": "",
   "post.video": "Video",
   "post_form.cancel": "Cancel",
   "post_form.create_title": "Create post",

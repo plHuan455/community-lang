@@ -93,6 +93,7 @@
   "post.image": "영상",
   "post.link": "링크",
   "post.text": "게시물",
+  "post.title.post_of": "",
   "post.video": "동영상",
   "post_form.cancel": "취소",
   "post_form.create_title": "게시물 작성",

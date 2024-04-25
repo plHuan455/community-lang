@@ -93,6 +93,7 @@
   "post.image": "Hình ảnh",
   "post.link": "Link",
   "post.text": "Bài viết",
+  "post.title.post_of": "Bài viết của {authorName}",
   "post.video": "Video",
   "post_form.cancel": "Hủy",
   "post_form.create_title": "Tạo bài viết",
