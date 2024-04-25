@@ -21,6 +21,7 @@
   "common.copy_clipboard": "Copied",
   "common.delete.text": "Delete",
   "common.detail": "",
+  "common.download_all": "",
   "common.edit.text": "Edit",
   "common.error.email_format": "Please enter a valid email.",
   "common.error.general": "An error has occurred. Please try again later",
