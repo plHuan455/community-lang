@@ -67,7 +67,7 @@
   "login.error.lock": "您的帳號已被鎖定。",
   "login.error.password_length": "密碼必須至少有6個字符",
   "login.error.required_display_name": "請輸入您的姓名",
-  "login.error.username_exist": "",
+  "login.error.username_exist": "更新資料成功",
   "login.error.username_format": "用戶名必須是6到12個字符長，並以字母開頭",
   "login.login_with": "使用 {name} 登錄",
   "login.password.require": "請輸入您的密碼",
