@@ -21,7 +21,7 @@
   "common.copy_clipboard": "คัดลอกแล้ว",
   "common.delete.text": "ลบ",
   "common.detail": "รายละเอียด",
-  "common.download_all": "",
+  "common.download_all": "ดาวน์โหลดทั้งหมด",
   "common.edit.text": "แก้ไข",
   "common.error.email_format": "กรุณาใส่อีเมลที่ถูกต้อง",
   "common.error.general": "ข้อผิดพลาด โปรดลองอีกครั้งในภายหลัง",
