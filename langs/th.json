@@ -67,7 +67,7 @@
   "login.error.lock": "บัญชีของคุณถูกล็อก",
   "login.error.password_length": "รหัสผ่านต้องมีอย่างน้อย 6 ตัวอักษร",
   "login.error.required_display_name": "โปรดใส่ชื่อของคุณ",
-  "login.error.username_exist": "",
+  "login.error.username_exist": "อัปเดตโปรไฟล์สำเร็จ",
   "login.error.username_format": "ชื่อผู้ใช้ต้องมีความยาวระหว่าง 6 ถึง 12 ตัวอักษรและต้องเริ่มต้นด้วยตัวอักษร",
   "login.login_with": "เข้าสู่ระบบด้วย {name}",
   "login.password.require": "กรุณาใส่รหัสผ่านของคุณ",
