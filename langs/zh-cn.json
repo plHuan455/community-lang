@@ -20,7 +20,7 @@
   "common.comment": "{commentCount, plural,=0 {评论}one {{commentCount, number} 评论}other {{commentCount, number} 评论}}",
   "common.copy_clipboard": "已复制",
   "common.delete.text": "删除",
-  "common.detail": "",
+  "common.detail": "详情",
   "common.download_all": "",
   "common.edit.text": "编辑",
   "common.error.email_format": "您的账号已被锁定。",
