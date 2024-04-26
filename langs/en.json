@@ -128,7 +128,7 @@
   "profile.message.success.update_social": "Successfully updated {socialName}",
   "profile.phone_number_placeholder": "Phone number",
   "profile.social": "Social",
-  "profile.success.update_profile": "",
+  "profile.success.update_profile": "Update profile successful",
   "reset_password.sent_email": "Send email",
   "reset_password.submit_button": "Continue",
   "reset_password.title": "Reset password",
