@@ -67,7 +67,7 @@
   "login.error.lock": "您的账号已被锁定。",
   "login.error.password_length": "密码必须至少为6个字符",
   "login.error.required_display_name": "请输入您的姓名",
-  "login.error.username_exist": "",
+  "login.error.username_exist": "更新资料成功",
   "login.error.username_format": "用户名必须是6到12个字符长，并以字母开头",
   "login.login_with": "使用 {name} 登录",
   "login.password.require": "请输入您的密码",
