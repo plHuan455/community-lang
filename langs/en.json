@@ -67,7 +67,7 @@
   "login.error.lock": "Your account has been locked.",
   "login.error.password_length": "Password must be at least 6 characters",
   "login.error.required_display_name": "Please enter your name",
-  "login.error.username_exist": "Update profile successful",
+  "login.error.username_exist": "The username already exists",
   "login.error.username_format": "Username must be between 6 and 12 characters long, consisting of letters and numbers only, and must start with a letter",
   "login.login_with": "Sign in with {name}",
   "login.password.require": "Please enter your password",
