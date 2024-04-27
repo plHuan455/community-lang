@@ -23,6 +23,7 @@
   "common.detail": "Detail",
   "common.download_all": "Download all",
   "common.edit.text": "Edit",
+  "common.empty.no_users": "No users yet",
   "common.error.email_format": "Please enter a valid email.",
   "common.error.general": "An error has occurred. Please try again later",
   "common.follower": "Followers",

@@ -23,6 +23,7 @@
   "common.detail": "รายละเอียด",
   "common.download_all": "ดาวน์โหลดทั้งหมด",
   "common.edit.text": "แก้ไข",
+  "common.empty.no_users": "ยังไม่มีผู้ใช้",
   "common.error.email_format": "กรุณาใส่อีเมลที่ถูกต้อง",
   "common.error.general": "ข้อผิดพลาด โปรดลองอีกครั้งในภายหลัง",
   "common.follower": "ผู้ติดตาม",
