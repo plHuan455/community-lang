@@ -94,6 +94,7 @@
   "post.confirm_delete.title": "ลบโพสต์",
   "post.create_post": "Hi {name}, คุณต้องการแบ่งปันอะไร?",
   "post.edit.title": "แก้ไขโพสต์",
+  "post.empty": "ยังไม่มีโพสต์",
   "post.image": "ภาพ",
   "post.link": "ลิงค์",
   "post.remain_time": "{dayCount, plural, =0 {} other {# 일}}{hourCount, plural, =0 {} other { # Giờ}}{minuteCount, plural, =0 {} other { # Phút}}",

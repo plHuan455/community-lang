@@ -94,6 +94,7 @@
   "post.confirm_delete.title": "Xoá bài viết",
   "post.create_post": "Hi {name}, Bạn muốn chia sẻ điều gì?",
   "post.edit.title": "Chỉnh sửa bài viết",
+  "post.empty": "Chưa có bài viết",
   "post.image": "Hình ảnh",
   "post.link": "Link",
   "post.remain_time": "{dayCount, plural, =0 {} other {# ngày}}{hourCount, plural, =0 {} other { # Giờ}}{minuteCount, plural, =0 {} other { # Phút}}",

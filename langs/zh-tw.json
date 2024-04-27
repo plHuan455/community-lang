@@ -94,6 +94,7 @@
   "post.confirm_delete.title": "删除帖子",
   "post.create_post": "Hi {name}, 你想分享什么",
   "post.edit.title": "編輯帖子",
+  "post.empty": "暫時還沒有帖子",
   "post.image": "图像",
   "post.link": "关联",
   "post.remain_time": "{dayCount, plural, =0 {} other {# 일}}{hourCount, plural, =0 {} other { # Giờ}}{minuteCount, plural, =0 {} other { # Phút}}",
