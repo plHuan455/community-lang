@@ -123,6 +123,7 @@
   "profile.bio": "简介",
   "profile.bio.placeholder": "我来介绍一下我自己...",
   "profile.birthday": "生日",
+  "profile.empty_follower": "暂时还没有粉丝",
   "profile.full_name": "全名",
   "profile.gender": "性别",
   "profile.gender.placeholder_choose": "选择性别",

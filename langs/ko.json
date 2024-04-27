@@ -123,6 +123,8 @@
   "profile.bio": "소개",
   "profile.bio.placeholder": "나 자신에 대한 소개를 해 보겠습니다...",
   "profile.birthday": "생일",
+  "profile.empty_follower": "아직 팔로워가 없습
+  니다",
   "profile.full_name": "성명",
   "profile.gender": "성별",
   "profile.gender.placeholder_choose": "성별 선택",

@@ -123,6 +123,7 @@
   "profile.bio": "Bio",
   "profile.bio.placeholder": "Write an introduction about yourself...",
   "profile.birthday": "Birthday",
+  "profile.empty_follower": "",
   "profile.full_name": "Full Name",
   "profile.gender": "Gender",
   "profile.gender.placeholder_choose": "Choose gender",

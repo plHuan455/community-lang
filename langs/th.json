@@ -123,6 +123,7 @@
   "profile.bio": "ประวัติ",
   "profile.bio.placeholder": "ฉันจะเขียนเกี่ยวกับตัวฉันเอง...",
   "profile.birthday": "วันเกิด",
+  "profile.empty_follower": "ยังไม่มีผู้ติดตาม",
   "profile.full_name": "ชื่อเต็ม",
   "profile.gender": "เพศ",
   "profile.gender.placeholder_choose": "เลือกเพศ",

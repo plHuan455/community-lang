@@ -123,6 +123,7 @@
   "profile.bio": "Giới thiệu",
   "profile.bio.placeholder": "Viết lời giới thiệu gì đó về bản thân mình...",
   "profile.birthday": "Ngày sinh",
+  "profile.empty_follower": "",
   "profile.full_name": "Họ và tên",
   "profile.gender": "Giới tính",
   "profile.gender.placeholder_choose": "Chọn giới tính",
