@@ -129,6 +129,7 @@
   "profile.full_name": "全名",
   "profile.gender": "性别",
   "profile.gender.placeholder_choose": "选择性别",
+  "profile.info.title": "信息",
   "profile.message.success.update_social": "成功更新 {socialName}",
   "profile.phone_number_placeholder": "电话号码",
   "profile.social": "社交",

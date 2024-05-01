@@ -129,6 +129,7 @@
   "profile.full_name": "성명",
   "profile.gender": "성별",
   "profile.gender.placeholder_choose": "성별 선택",
+  "profile.info.title": "정보",
   "profile.message.success.update_social": "{socialName}를 성공적으로 업데이트했습니다",
   "profile.phone_number_placeholder": "전화번호",
   "profile.social": "소셜",

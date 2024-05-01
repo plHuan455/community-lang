@@ -129,6 +129,7 @@
   "profile.full_name": "ชื่อเต็ม",
   "profile.gender": "เพศ",
   "profile.gender.placeholder_choose": "เลือกเพศ",
+  "profile.info.title": "ข้อมูล",
   "profile.message.success.update_social": "อัปเดต {socialName} สำเร็จ",
   "profile.phone_number_placeholder": "หมายเลขโทรศัพท์",
   "profile.social": "โซเชียล",

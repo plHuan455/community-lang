@@ -129,6 +129,7 @@
   "profile.full_name": "Họ và tên",
   "profile.gender": "Giới tính",
   "profile.gender.placeholder_choose": "Chọn giới tính",
+  "profile.info.title": "Thông tin",
   "profile.message.success.update_social": "Cập nhật {socialName} thành công",
   "profile.phone_number_placeholder": "Số điện thoại",
   "profile.social": "Mạng xã hội",

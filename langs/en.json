@@ -129,6 +129,7 @@
   "profile.full_name": "Full Name",
   "profile.gender": "Gender",
   "profile.gender.placeholder_choose": "Choose gender",
+  "profile.info.title": "",
   "profile.message.success.update_social": "Successfully updated {socialName}",
   "profile.phone_number_placeholder": "Phone number",
   "profile.social": "Social",
