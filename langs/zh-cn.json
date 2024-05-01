@@ -26,6 +26,7 @@
   "common.empty.no_users": "暂时还没有用户",
   "common.error.email_format": "您的账号已被锁定。",
   "common.error.general": "出现错误。请稍后再试。",
+  "common.error.not_image": "请选择图片",
   "common.follower": "粉丝",
   "common.gender.female": "女",
   "common.gender.male": "女性",

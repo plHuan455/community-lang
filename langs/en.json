@@ -26,6 +26,7 @@
   "common.empty.no_users": "No users yet",
   "common.error.email_format": "Please enter a valid email.",
   "common.error.general": "An error has occurred. Please try again later",
+  "common.error.not_image": "Please select an image",
   "common.follower": "Followers",
   "common.gender.female": "Female",
   "common.gender.male": "Male",

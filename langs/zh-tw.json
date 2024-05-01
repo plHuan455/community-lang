@@ -26,6 +26,7 @@
   "common.empty.no_users": "暫時還沒有用戶",
   "common.error.email_format": "您的帳號已被鎖定。",
   "common.error.general": "發生錯誤。請稍後再試。",
+  "common.error.not_image": "請選擇圖片",
   "common.follower": "粉絲",
   "common.gender.female": "女性",
   "common.gender.male": "男性",
