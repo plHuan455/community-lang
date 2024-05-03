@@ -28,6 +28,7 @@
   "common.error.general": "An error has occurred. Please try again later",
   "common.error.not_image": "Please select an image",
   "common.follower": "Followers",
+  "common.follower_count": "Followers",
   "common.gender.female": "Female",
   "common.gender.male": "Male",
   "common.gender.other": "Other",
