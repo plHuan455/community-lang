@@ -18,6 +18,12 @@ const updateFileValue = (path, { key, value }) => {
   fs.writeFileSync(path, JSON.stringify(Object.fromEntries(Object.entries(fileData).sort()), null, 2))
 }
 
+const deleteProperty = (path, key) => {
+  const fileData = JSON.parse(fs.readFileSync(path, "utf-8") || "{}")
+  delete fileData[key]
+  fs.writeFileSync(path, JSON.stringify(Object.fromEntries(Object.entries(fileData).sort()), null, 2))
+}
+
 
 module.exports = function (plop) {
   plop.setGenerator("CHANGE LANG", {
@@ -39,6 +45,25 @@ module.exports = function (plop) {
         updateFileValue(FILE_PATHS.zhCn, { key: key, value: "" })
         updateFileValue(FILE_PATHS.zhTw, { key: key, value: "" })
         return "LANGUAGE FILES HAS BEEN UPDATED!"
+      },
+    ],
+  }),
+  plop.setGenerator("DELETE LANG", {
+    description: "CREATE, UPDATE, DELETE LANG",
+    prompts: [
+      {
+        type: "input",
+        name: "key",
+        message: "key",
+      },
+    ],
+    actions: [
+      function (data) {
+        const { key } = data
+        Object.values(FILE_PATHS).forEach(value => {
+          deleteProperty(value, key)
+        })
+        return "LANGUAGE FILES HAS BEEN DELETED!"
       },
     ],
   })
