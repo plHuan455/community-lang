@@ -1,9 +1,9 @@
 {
-  "ckbok.tabs.document": "文件",
+  "ckbok.tabs.document": "Documents",
   "ckbok.tabs.files": "Files",
-  "ckbok.tabs.video": "視頻",
+  "ckbok.tabs.video": "Videos",
   "ckbox.search.placeholder": "搜尋資產",
-  "ckbox.tabs.images": "圖片",
+  "ckbox.tabs.images": "Images",
   "comment.add_comment": "添加評論",
   "comment.confirm.delete_button": "刪除評論",
   "comment.confirm.delete_description": "您確定要刪除此評論嗎？",

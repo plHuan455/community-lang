@@ -1,9 +1,9 @@
 {
-  "ckbok.tabs.document": "文件",
+  "ckbok.tabs.document": "Documents",
   "ckbok.tabs.files": "Files",
-  "ckbok.tabs.video": "视频",
+  "ckbok.tabs.video": "Videos",
   "ckbox.search.placeholder": "搜索资产",
-  "ckbox.tabs.images": "图片",
+  "ckbox.tabs.images": "Images",
   "comment.add_comment": "添加评论",
   "comment.confirm.delete_button": "删除评论",
   "comment.confirm.delete_description": "您确定要删除此评论吗？",

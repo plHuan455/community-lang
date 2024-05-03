@@ -1,9 +1,9 @@
 {
-  "ckbok.tabs.document": "เอกสาร",
-  "ckbok.tabs.files": "ไฟล์",
-  "ckbok.tabs.video": "วิดีโอ",
+  "ckbok.tabs.document": "Documents",
+  "ckbok.tabs.files": "Files",
+  "ckbok.tabs.video": "Videos",
   "ckbox.search.placeholder": "ค้นหาสินทรัพย์",
-  "ckbox.tabs.images": "รูปภาพ",
+  "ckbox.tabs.images": "Images",
   "comment.add_comment": "เพิ่มความคิดเห็น",
   "comment.confirm.delete_button": "ลบความคิดเห็น",
   "comment.confirm.delete_description": "คุณแน่ใจหรือไม่ว่าต้องการลบความคิดเห็นนี้?",
