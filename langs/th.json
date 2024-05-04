@@ -19,6 +19,7 @@
   "common.cancel": "ยกเลิก",
   "common.comment": "{commentCount, plural,=0 {ความคิดเห็น}one {{commentCount, number} ความคิดเห็น}other {{commentCount, number} ความคิดเห็น}}",
   "common.copy_clipboard": "คัดลอกแล้ว",
+  "common.country": "ประเทศ",
   "common.delete.text": "ลบ",
   "common.detail": "รายละเอียด",
   "common.download_all": "ดาวน์โหลดทั้งหมด",

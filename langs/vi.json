@@ -19,6 +19,7 @@
   "common.cancel": "Huỷ",
   "common.comment": "{commentCount, plural,=0 {Bình luận}one {{commentCount, number} Bình luận}other {{commentCount, number} bình luận}}",
   "common.copy_clipboard": "Đã sao chép",
+  "common.country": "Quốc gia",
   "common.delete.text": "Xoá",
   "common.detail": "Chi tiết",
   "common.download_all": "Download all",

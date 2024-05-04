@@ -19,6 +19,7 @@
   "common.cancel": "取消",
   "common.comment": "{commentCount, plural,=0 {評論}one {{commentCount, number} 評論}other {{commentCount, number} 評論}}",
   "common.copy_clipboard": "已複製",
+  "common.country": "國家",
   "common.delete.text": "刪除",
   "common.detail": "詳情",
   "common.download_all": "下載全部",

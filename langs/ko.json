@@ -19,6 +19,7 @@
   "common.cancel": "취소",
   "common.comment": "{commentCount, plural,=0 {논평}one {{commentCount, number} 논평}other {{commentCount, number} 논평}}",
   "common.copy_clipboard": "복사됨",
+  "common.country": "국가",
   "common.delete.text": "삭제",
   "common.detail": "세부 사항",
   "common.download_all": "모두 다운로드",
