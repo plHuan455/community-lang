@@ -104,6 +104,7 @@
   "post.filter.advance_select": "Advanced select",
   "post.image": "Image",
   "post.link": "Link",
+  "post.postShort": "Post",
   "post.remain_time": "{dayCount, plural, =0 {} other {# day}}{hourCount, plural, =0 {} other { # Giờ}}{minuteCount, plural, =0 {} other { # minute}}",
   "post.text": "Post",
   "post.title.post_of": "Post of {authorName}",

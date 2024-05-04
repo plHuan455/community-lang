@@ -104,6 +104,7 @@
   "post.filter.advance_select": "Lựa chọn nâng cao",
   "post.image": "Hình ảnh",
   "post.link": "Link",
+  "post.postShort": "Bài viết",
   "post.remain_time": "{dayCount, plural, =0 {} other {# ngày}}{hourCount, plural, =0 {} other { # Giờ}}{minuteCount, plural, =0 {} other { # Phút}}",
   "post.text": "Bài viết",
   "post.title.post_of": "Bài viết của {authorName}",

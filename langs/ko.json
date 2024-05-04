@@ -104,6 +104,7 @@
   "post.filter.advance_select": "고급 선택",
   "post.image": "영상",
   "post.link": "링크",
+  "post.postShort": "게시물",
   "post.remain_time": "{dayCount, plural, =0 {} other {# 일}}{hourCount, plural, =0 {} other { # Giờ}}{minuteCount, plural, =0 {} other { # Phút}}",
   "post.text": "게시물",
   "post.title.post_of": "의 게시물 {authorName}",

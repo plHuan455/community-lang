@@ -104,6 +104,7 @@
   "post.filter.advance_select": "高级选择",
   "post.image": "图像",
   "post.link": "关联",
+  "post.postShort": "帖子",
   "post.remain_time": "{dayCount, plural, =0 {} other {# 일}}{hourCount, plural, =0 {} other { # Giờ}}{minuteCount, plural, =0 {} other { # Phút}}",
   "post.text": "帖子",
   "post.title.post_of": "的帖子 {authorName}",
