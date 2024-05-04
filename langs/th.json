@@ -159,6 +159,7 @@
   "sidebar.top.title": "สูงสุด",
   "sidebar.topic.title": "หัวข้อ",
   "sidebar.trend.title": "นวโน้ม",
+  "sidebar.trending.board": "กระดานเทรนด์",
   "user.account_setting": "การตั้งค่าบัญชี",
   "user.logout": "ออกจากระบบ"
 }
