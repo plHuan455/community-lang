@@ -100,6 +100,7 @@
   "post.create_post": "Hi {name}, 你想分享什么",
   "post.edit.title": "编辑帖子",
   "post.empty": "暂时还没有帖子",
+  "post.filter.advance_select": "高级选择",
   "post.image": "图像",
   "post.link": "关联",
   "post.remain_time": "{dayCount, plural, =0 {} other {# 일}}{hourCount, plural, =0 {} other { # Giờ}}{minuteCount, plural, =0 {} other { # Phút}}",

@@ -100,6 +100,7 @@
   "post.create_post": "Hi {name}, 무엇을 공유하고 싶나요?",
   "post.edit.title": "게시물 수정",
   "post.empty": "아직 게시물이 없습니다",
+  "post.filter.advance_select": "고급 선택",
   "post.image": "영상",
   "post.link": "링크",
   "post.remain_time": "{dayCount, plural, =0 {} other {# 일}}{hourCount, plural, =0 {} other { # Giờ}}{minuteCount, plural, =0 {} other { # Phút}}",

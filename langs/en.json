@@ -100,6 +100,7 @@
   "post.create_post": "Hi {name}, What do you want to share?",
   "post.edit.title": "Edit post",
   "post.empty": "No posts yet",
+  "post.filter.advance_select": "Advanced select",
   "post.image": "Image",
   "post.link": "Link",
   "post.remain_time": "{dayCount, plural, =0 {} other {# day}}{hourCount, plural, =0 {} other { # Giờ}}{minuteCount, plural, =0 {} other { # minute}}",
