@@ -18,6 +18,7 @@
   "common.all_data_matching_loaded_by": "已加载所有与 {name} 相关的数据",
   "common.cancel": "取消",
   "common.comment": "{commentCount, plural,=0 {评论}one {{commentCount, number} 评论}other {{commentCount, number} 评论}}",
+  "common.confirm": "确认",
   "common.copy_clipboard": "已复制",
   "common.country": "国家",
   "common.delete.text": "删除",

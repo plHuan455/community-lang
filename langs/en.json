@@ -18,6 +18,7 @@
   "common.all_data_matching_loaded_by": "{name}The relevant data has been loaded",
   "common.cancel": "Cancel",
   "common.comment": "{commentCount, plural,=0 {Comment}one {{commentCount, number} Comment}other {{commentCount, number} comment}}",
+  "common.confirm": "Confirm",
   "common.copy_clipboard": "Copied",
   "common.country": "Country",
   "common.delete.text": "Delete",
@@ -175,7 +176,7 @@
   "sidebar.top.title": "Top",
   "sidebar.topic.title": "Topics",
   "sidebar.trend.title": "Trend",
-  "sidebar.trending.board": "Trending board",
+  "sidebar.trending.board": "Trending",
   "user.account_setting": "Account settings",
   "user.logout": "Log out"
 }

@@ -18,6 +18,7 @@
   "common.all_data_matching_loaded_by": "โหลดข้อมูลทั้งหมดที่เกี่ยวข้องกับ {name} เรียบร้อยแล้ว",
   "common.cancel": "ยกเลิก",
   "common.comment": "{commentCount, plural,=0 {ความคิดเห็น}one {{commentCount, number} ความคิดเห็น}other {{commentCount, number} ความคิดเห็น}}",
+  "common.confirm": "ยืนยัน",
   "common.copy_clipboard": "คัดลอกแล้ว",
   "common.country": "ประเทศ",
   "common.delete.text": "ลบ",

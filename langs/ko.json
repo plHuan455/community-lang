@@ -18,6 +18,7 @@
   "common.all_data_matching_loaded_by": "{name}과 관련된 모든 데이터가 로드되었습니다",
   "common.cancel": "취소",
   "common.comment": "{commentCount, plural,=0 {논평}one {{commentCount, number} 논평}other {{commentCount, number} 논평}}",
+  "common.confirm": "확인",
   "common.copy_clipboard": "복사됨",
   "common.country": "국가",
   "common.delete.text": "삭제",
