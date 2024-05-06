@@ -37,6 +37,7 @@
   "common.hidden_less": "ดูน้อยลง",
   "common.like": "ชอบ",
   "common.like_count": "ถูกใจ",
+  "common.like_count_number": "{likeCount, plural,=0 {{likeCount, number} ถูกใจ}one {{likeCount, number} ถูกใจ}other {{likeCount, number} ถูกใจ}}",
   "common.loading": "กำลังโหลด",
   "common.news": "ข่าว",
   "common.or": "หรือ",

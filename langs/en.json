@@ -37,6 +37,7 @@
   "common.hidden_less": "Show less",
   "common.like": "Like",
   "common.like_count": "Likes",
+  "common.like_count_number": "{likeCount, plural,=0 {{likeCount, number} lượt thích}one {{likeCount, number} lượt thích}other {{likeCount, number} lượt thích}}",
   "common.loading": "Loading",
   "common.news": "News",
   "common.or": "Or",

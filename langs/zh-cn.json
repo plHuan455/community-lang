@@ -37,6 +37,7 @@
   "common.hidden_less": "显示更少",
   "common.like": "喜欢",
   "common.like_count": "点赞数",
+  "common.like_count_number": "{likeCount, plural,=0 {{likeCount, number} 点赞}one {{likeCount, number} 点赞}other {{likeCount, number} 点赞}}",
   "common.loading": "正在加载",
   "common.news": "新闻",
   "common.or": "或者",

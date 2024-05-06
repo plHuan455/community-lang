@@ -37,6 +37,7 @@
   "common.hidden_less": "Ẩn bớt",
   "common.like": "Thích",
   "common.like_count": "Lượt thích",
+  "common.like_count_number": "{likeCount, plural,=0 {{likeCount, number} lượt thích}one {{likeCount, number} lượt thích}other {{likeCount, number} lượt thích}}",
   "common.loading": "Đang tải",
   "common.news": "Tin tức",
   "common.or": "Hoặc",
