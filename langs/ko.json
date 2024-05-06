@@ -130,6 +130,7 @@
   "post_form.error.max_image_count": "최대 {maxCount} 개의 이미지",
   "post_form.error.max_image_size": "최대 이미지 크기 {imageSize}",
   "post_form.error.max_video_size": "최대 비디오 크기는 {videoSize}입니다",
+  "post_form.error.required_title_or_content": "이 게시물에 제목 또는 내용을 입력하세요",
   "post_form.error.title_required": "게시물 제목을 입력하세요",
   "post_form.error.video_required": "게시물에 비디오를 추가하세요",
   "post_form.error_link_not_support": "링크 형식이 지원되지 않습니다",

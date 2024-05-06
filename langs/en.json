@@ -130,6 +130,7 @@
   "post_form.error.max_image_count": "Maximum {maxCount} images",
   "post_form.error.max_image_size": "Maximum image size {imageSize}",
   "post_form.error.max_video_size": "Maximum video size is {videoSize}",
+  "post_form.error.required_title_or_content": "Please enter the title or content for this post",
   "post_form.error.title_required": "Please enter the title of the post",
   "post_form.error.video_required": "Please add a video to the post",
   "post_form.error_link_not_support": "Link format not supported",

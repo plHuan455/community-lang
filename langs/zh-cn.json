@@ -130,6 +130,7 @@
   "post_form.error.max_image_count": "最多 {maxCount} 张图片",
   "post_form.error.max_image_size": "最大图片大小 {imageSize}",
   "post_form.error.max_video_size": "最大视频大小是 {videoSize}",
+  "post_form.error.required_title_or_content": "请输入此帖子的标题或内容",
   "post_form.error.title_required": "请填写帖子标题",
   "post_form.error.video_required": "请在帖子中添加视频",
   "post_form.error_link_not_support": "链接格式不受支持",
