@@ -28,6 +28,7 @@
   "common.error.email_format": "您的帳號已被鎖定。",
   "common.error.general": "發生錯誤。請稍後再試。",
   "common.error.not_image": "請選擇圖片",
+  "common.filter": "過濾",
   "common.follower": "粉絲",
   "common.follower_count": "粉絲數",
   "common.following": "關注",

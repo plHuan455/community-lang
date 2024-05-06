@@ -28,6 +28,7 @@
   "common.error.email_format": "Please enter a valid email.",
   "common.error.general": "An error has occurred. Please try again later",
   "common.error.not_image": "Please select an image",
+  "common.filter": "Filter",
   "common.follower": "Followers",
   "common.follower_count": "Followers",
   "common.following": "Following",

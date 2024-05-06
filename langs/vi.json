@@ -28,6 +28,7 @@
   "common.error.email_format": "Vui lòng nhập đúng email",
   "common.error.general": "Có lỗi xảy ra, vui lòng thử lại sau vài phút",
   "common.error.not_image": "Vui lòng chọn ảnh",
+  "common.filter": "Lọc",
   "common.follower": "Người theo dõi",
   "common.follower_count": "Theo dõi",
   "common.following": "Theo dõi",
