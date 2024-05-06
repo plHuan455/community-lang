@@ -117,6 +117,8 @@
   "post.text": "Post",
   "post.title.post_of": "Post of {authorName}",
   "post.video": "Video",
+  "post_form.add_photo": "Add photo",
+  "post_form.add_video": "Add video",
   "post_form.cancel": "Cancel",
   "post_form.create_title": "Create post",
   "post_form.error.images_required": "Please add photo to the post",

@@ -117,6 +117,8 @@
   "post.text": "Bài viết",
   "post.title.post_of": "Bài viết của {authorName}",
   "post.video": "Video",
+  "post_form.add_photo": "Thêm ảnh",
+  "post_form.add_video": "Thêm video",
   "post_form.cancel": "Hủy",
   "post_form.create_title": "Tạo bài viết",
   "post_form.error.images_required": "Vui lòng thêm ảnh",

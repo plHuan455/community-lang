@@ -117,6 +117,8 @@
   "post.text": "กระทู้",
   "post.title.post_of": "โพสต์ของ {authorName}",
   "post.video": "วิดีโอ",
+  "post_form.add_photo": "เพิ่มรูป",
+  "post_form.add_video": "เพิ่มวิดีโอ",
   "post_form.cancel": "ยกเลิก",
   "post_form.create_title": "สร้างโพสต์",
   "post_form.error.images_required": "กรุณาเพิ่มรูปภาพในโพสต์",

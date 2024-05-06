@@ -117,6 +117,8 @@
   "post.text": "게시물",
   "post.title.post_of": "의 게시물 {authorName}",
   "post.video": "동영상",
+  "post_form.add_photo": "사진 추가",
+  "post_form.add_video": "동영상 추가",
   "post_form.cancel": "취소",
   "post_form.create_title": "게시물 작성",
   "post_form.error.images_required": "게시물에 사진을 추가하세요",

@@ -117,6 +117,8 @@
   "post.text": "帖子",
   "post.title.post_of": "的帖子 {authorName}",
   "post.video": "视频",
+  "post_form.add_photo": "添加照片",
+  "post_form.add_video": "添加視頻",
   "post_form.cancel": "取消",
   "post_form.create_title": "創建帖子",
   "post_form.error.images_required": "請在帖子中添加照片",
