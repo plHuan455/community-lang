@@ -124,7 +124,7 @@
   "post_form.add_photo": "添加照片",
   "post_form.add_video": "添加视频",
   "post_form.cancel": "取消",
-  "post_form.create_title": "创建帖子",
+  "post_form.create_title": "快速分享",
   "post_form.error.images_required": "请在帖子中添加照片",
   "post_form.error.link_format": "URL格式不正确",
   "post_form.error.link_required": "请填写URL",

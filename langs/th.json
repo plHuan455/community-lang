@@ -124,7 +124,7 @@
   "post_form.add_photo": "เพิ่มรูป",
   "post_form.add_video": "เพิ่มวิดีโอ",
   "post_form.cancel": "ยกเลิก",
-  "post_form.create_title": "สร้างโพสต์",
+  "post_form.create_title": "บ่งปันอย่างรวดเร็ว",
   "post_form.error.images_required": "กรุณาเพิ่มรูปภาพในโพสต์",
   "post_form.error.link_format": "รูปแบบ URL ไม่ถูกต้อง",
   "post_form.error.link_required": "กรุณาใส่ URL",

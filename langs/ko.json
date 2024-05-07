@@ -124,7 +124,7 @@
   "post_form.add_photo": "사진 추가",
   "post_form.add_video": "동영상 추가",
   "post_form.cancel": "취소",
-  "post_form.create_title": "게시물 작성",
+  "post_form.create_title": "빠른 공유",
   "post_form.error.images_required": "게시물에 사진을 추가하세요",
   "post_form.error.link_format": "URL이 잘못되었습니다",
   "post_form.error.link_required": "URL을 입력하세요",
