@@ -111,6 +111,7 @@
   "post.confirm_discard_creating.description": "Bạn có chắc chắn muốn hủy bỏ việc tạo bài đăng không?",
   "post.confirm_discard_creating.title": "Hủy tạo bài?",
   "post.create_post": "Hi {name}, Bạn muốn chia sẻ điều gì?",
+  "post.create_post_think": "Bạn đang nghĩ gì?",
   "post.edit.title": "Chỉnh sửa bài viết",
   "post.empty": "Chưa có bài viết",
   "post.filter.advance_select": "Lọc nâng cao",

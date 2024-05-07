@@ -111,6 +111,7 @@
   "post.confirm_discard_creating.description": "您确定要放弃创建帖子吗？",
   "post.confirm_discard_creating.title": "放弃创建帖子？",
   "post.create_post": "Hi {name}, 你想分享什么",
+  "post.create_post_think": "你在想什么?",
   "post.edit.title": "编辑帖子",
   "post.empty": "暂时还没有帖子",
   "post.filter.advance_select": "高级选择",

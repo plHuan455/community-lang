@@ -111,6 +111,7 @@
   "post.confirm_discard_creating.description": "게시물 작성을 취소하시겠습니까?",
   "post.confirm_discard_creating.title": "게시물 작성을 취소하시겠습니까?",
   "post.create_post": "Hi {name}, 무엇을 공유하고 싶나요?",
+  "post.create_post_think": "무엇을 생각하고 있나요?",
   "post.edit.title": "게시물 수정",
   "post.empty": "아직 게시물이 없습니다",
   "post.filter.advance_select": "고급 선택",

@@ -111,6 +111,7 @@
   "post.confirm_discard_creating.description": "Are you sure you want to discard post creating?",
   "post.confirm_discard_creating.title": "Discard post creating?",
   "post.create_post": "Hi {name}, What do you want to share?",
+  "post.create_post_think": "What are you thinking?",
   "post.edit.title": "Edit post",
   "post.empty": "No posts yet",
   "post.filter.advance_select": "Advanced select",
